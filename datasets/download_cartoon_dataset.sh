@@ -1,5 +1,5 @@
 FILE=artwork
-URL=https://www.dropbox.com/s/f25762mv8vapoto/$FILE.zip?dl=1
+URL=https://www.dropbox.com/s/721bux0zsoih5j0/$FILE.zip?dl=0
 ZIP_FILE=./datasets/$FILE.zip
 TARGET_DIR=./datasets/$FILE/
 wget -N $URL -O $ZIP_FILE
