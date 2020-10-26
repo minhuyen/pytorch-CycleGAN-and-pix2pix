@@ -1,6 +1,6 @@
-FILE=artwork
+FILE=artwork-more
 # URL=https://www.dropbox.com/s/721bux0zsoih5j0/$FILE.zip?dl=1
-URL=https://www.dropbox.com/s/c5w5sj38axgnu8o/artwork-more.zip?dl=1
+URL=https://www.dropbox.com/s/c5w5sj38axgnu8o/$FILE.zip?dl=1
 ZIP_FILE=./datasets/$FILE.zip
 TARGET_DIR=./datasets/$FILE/
 wget -N $URL -O $ZIP_FILE
